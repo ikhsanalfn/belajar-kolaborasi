@@ -1,5 +1,5 @@
 # belajar-kolaborasi
-belajar kolaborasi dari dicoding
-coding asik dan menyenangkan
-ayo belajar coding
+belajar kolaborasi dari dicoding <br>
+coding asik dan menyenangkan <br>
+ayo belajar coding <br>
 testing
